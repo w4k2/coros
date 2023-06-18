@@ -24,6 +24,7 @@
     "tailwindcss": "^3.3.0"
   },
   "devDependencies": {
+    "@heroicons/react": "^2.0.18",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "eslint": "8.26.0",
     "eslint-config-next": "13.0.2",

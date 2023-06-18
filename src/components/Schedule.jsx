@@ -78,12 +78,6 @@ const schedule = [
       'The evening starts as early as 2PM in consists of six regular sessions filled with presentations. The last session ends at 4PM to reserve the last space for a closing ceremony.',
     timeSlots: [
       {
-        name: '[RS5] Mahmoud Ahmed Nasr',
-        description: 'An Approach to CT Image Conversion Using Filtering Based on Quaternion Mathematic',
-        start: '2:00PM',
-        end: '2:20PM',
-      },,
-      {
         name: 'Regular session 5',
         start: '2:00PM',
         end: '4:00PM',

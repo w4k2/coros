@@ -5,52 +5,52 @@ const incentives = [
         description: 'Classification and interpretation of text, video, voice'
     },
     {
-        icon: 'fa-thin fa-chart-scatter text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-chart-scatter text-xs sm:text-3xl md:text-6xl',
         name: 'Statistics',
         description: 'Statistical, soft and structural methods of pattern recognition'
     },
     {
-        icon: 'fa-light fa-image text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-image text-xs sm:text-3xl md:text-6xl',
         name: 'Image processing',
         description: 'Image processing analysis and interpretation'
     },
     {
-        icon: 'fa-light fa-less-than text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-less-than text-xs sm:text-3xl md:text-6xl',
         name: 'Preprocessing',
         description: 'Features extraction and selection'
     },
     {
-        icon: 'fa-light fa-computer-classic text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-computer-classic text-xs sm:text-3xl md:text-6xl',
         name: 'ML',
         description: 'Machine learning'
     },
     {
-        icon: 'fa-light fa-timeline-arrow text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-timeline-arrow text-xs sm:text-3xl md:text-6xl',
         name: 'Timeseries',
         description: 'Trends and relations recognition and analysis'
     },
     {
-        icon: 'fa-light fa-robot-astromech text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-robot-astromech text-xs sm:text-3xl md:text-6xl',
         name: 'Big Data',
         description: 'Data and Web mining'
     },
     {
-        icon: 'fa-light fa-books text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-books text-xs sm:text-3xl md:text-6xl',
         name: 'Knowledge Representation',
         description: 'Machine-oriented knowledge representation and inference methods'
     },
     {
-        icon: 'fa-light fa-headset text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-headset text-xs sm:text-3xl md:text-6xl',
         name: 'Decision Support',
         description: 'Knowledge-based decision support systems'
     },
     {
-        icon: 'fa-light fa-wave-square text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-wave-square text-xs sm:text-3xl md:text-6xl',
         name: 'Signal Processing',
         description: 'Advanced signal processing methods'
     },
     {
-        icon: 'fa-light fa-microchip text-xs sm:text-3xl md:text-6xl',
+        icon: 'fa-sharp fa-light fa-microchip text-xs sm:text-3xl md:text-6xl',
         name: 'Hardware',
         description: 'Special hardware architecture'
     }

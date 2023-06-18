@@ -6,6 +6,7 @@ import { Hero } from '@/components/Hero'
 import { Schedule } from '@/components/Schedule'
 import { Speakers } from '@/components/Speakers'
 import { Scopes } from '@/components/Scopes'
+import { Calendar } from '@/components/Calendar'
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
       <main>
         <Hero />
         <Speakers />
+        <Calendar />
         <Schedule />
         <Scopes />
       </main>
