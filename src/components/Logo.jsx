@@ -1,7 +1,7 @@
 export function Logo(props) {
   return (
       <svg xmlns="http://www.w3.org/2000/svg" width="109.538" height="53.957" viewBox="0 0 28.982 14.276">
-      <g stroke="#D53030" fill="none" stroke-width=".265">
+      <g stroke="#D53030" fill="none" stroke-width=".5">
           <path
               d="M.116 11.218l4.96-8.906-.283-.992L7.439.587l.354.874c3.66 3.426 7.666 4.886 12.828-.26l.236-1.039 2.74.709-.212 1.087 5.244 10.134-.07-.047" />
           <path
