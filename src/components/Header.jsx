@@ -20,7 +20,7 @@ export function Header() {
           </div>
         </div>
         <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
-          <Button href="#" className="bg-red-500">Conference programe</Button>
+          <Button href="cores2023.pdf">Conference programe</Button>
         </div>
       </Container>
     </header>
