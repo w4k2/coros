@@ -189,16 +189,10 @@ export function Calendar() {
     <section
       id="calendar"
       aria-labelledby="calendar-title"
-      className="py-20 sm:py-32"
+      className=""
     >
       <Container>
-      <div className="mx-auto max-w-2xl lg:mx-0 pb-12">
-          <h2
-            id="speakers-title"
-            className="font-display text-4xl font-medium tracking-tighter text-red-600 sm:text-5xl"
-          >
-            Papers
-          </h2>
+      <div className="mx-auto max-w-2xl lg:mx-0">
 
           <p className="mt-4 font-display text-2xl tracking-tight text-red-900">
             Check the timeslots for regular presentations.

@@ -75,7 +75,7 @@ const schedule = [
     date: 'Evening experience',
     dateTime: '2022-04-04',
     summary:
-      'The evening starts as early as 2PM in consists of six regular sessions filled with presentations. The last session ends at 4PM to reserve the last space for a closing ceremony.',
+      'The evening starts as early as 2PM in consists of two most content-packed regular sessions filled with presentations. The last session ends at 4PM to reserve the last space for a closing ceremony.',
     timeSlots: [
       {
         name: 'Regular session 5',
@@ -184,7 +184,7 @@ function TimeSlots({ day, className }) {
       {day.timeSlots.map((timeSlot, timeSlotIndex) => (
         <li
           key={timeSlot.start}
-          aria-label={`${timeSlot.name} talking about ${timeSlot.description} at ${timeSlot.start} - ${timeSlot.end} PST`}
+          aria-label={`${timeSlot.name} talking about ${timeSlot.description} at ${timeSlot.start} - ${timeSlot.end} CET`}
         >
           {timeSlotIndex > 0 && (
             <div className="mx-auto mb-8 h-px w-48 bg-indigo-500/10" />
@@ -205,7 +205,7 @@ function TimeSlots({ day, className }) {
             <time dateTime={`${day.dateTime}T${timeSlot.end}-08:00`}>
               {timeSlot.end}
             </time>{' '}
-            PST
+            CET
           </p>
         </li>
       ))}

@@ -25,8 +25,8 @@ export default function Home() {
       <main>
         <Hero />
         <Speakers />
-        <Calendar />
         <Schedule />
+        <Calendar />
         <Scopes />
       </main>
       <Footer />
