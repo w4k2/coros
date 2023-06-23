@@ -22,7 +22,7 @@ const days = [
       },
       {
         name: 'Shin-Jye Lee',
-        afiliation: 'VSB-Technical University of Ostrava, Czech Republic',
+        afiliation: 'National Chiao Tung University, Hsinchu, Taiwan',
         role: 'Artificial Intelligence and Smart Healthcare',
         abstract: 'Machine Learning is the core concept of Artificial Intelligence, and Artificial Intelligence is the practical application conducted by Machine Learning. As the advanced development of Machine Learning processes in an aggressive manner, Artificial Intelligence has been popularly applied to address the practical problems in the real world recently, such as Smart Healthcare, Smart Manufacturing, and Fintech. Meanwhile, Artificial Intelligence has a good progression in promoting the wide application of Smart Healthcare in these years, and it effectively provides decision support to enhance the reliability of clinical diagnosis. In addition, it also has a great potential in discovering the hidden symptoms of various diseases. At present, there are a lot of various AI techniques applied to address medical issues. Though they are not completely effective to all medical problems and most of them are still in the research status, the continuing development of Smart Healthcare is promising in the coming future.',
         image: shinJyeLeeImage,
