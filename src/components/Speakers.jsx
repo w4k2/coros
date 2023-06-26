@@ -171,9 +171,9 @@ export function Speakers() {
                     <h4 className="mt-1 text-base tracking-tight text-slate-500">
                       {speaker.afiliation}
                     </h4>
-                    <p className="mt-1 text-base tracking-tight text-slate-500">
+                    <h2 className="mt-10 text-xl tracking-tight text-slate-900">
                       {speaker.role}
-                    </p>
+                    </h2>
                     <p className="mt-1 text-base tracking-tight text-slate-500">
                       {speaker.abstract}
                     </p>

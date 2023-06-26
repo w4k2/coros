@@ -26,11 +26,13 @@ const schedule = [
       },
       {
         name: 'Regular session 1',
+        description: 'Chair: Prof. Rafał Kozik',
         start: '10:00AM',
         end: '11:00AM',
       },
       {
         name: 'Regular session 2',
+        description: 'Chair: dr Jakub Klikowski',
         start: '10:00AM',
         end: '11:00AM',
       },
@@ -56,11 +58,13 @@ const schedule = [
       },
       {
         name: 'Regular session 3',
+        description: 'Chair: dr Marek Pawlicki',
         start: '12:00AM',
         end: '1:00PM',
       },
       {
         name: 'Regular session 4',
+        description: 'Chair: Prof. Paweł Ksieniewicz',
         start: '12:00AM',
         end: '1:00PM',
       },
@@ -79,11 +83,13 @@ const schedule = [
     timeSlots: [
       {
         name: 'Regular session 5',
+        description: 'Chair: dr Paweł Trajdos',
         start: '2:00PM',
         end: '4:00PM',
       },
       {
         name: 'Regular session 6',
+        description: 'Chair: Prof. Paweł Ksieniewicz',
         start: '2:00PM',
         end: '4:00PM',
       },
