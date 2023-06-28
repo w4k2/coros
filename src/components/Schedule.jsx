@@ -54,7 +54,7 @@ const schedule = [
       {
         name: 'Sebastian Basterreich',
         description: 'Optimization of recurrent nets: recent theoretical advances and applications in chaotic systems modeling',
-        chair: 'Chair: Prof. Janusz Jurek',
+        chair: 'Chair: Prof. Mariusz Flasiński',
         start: '11:15AM',
         end: '12:00AM',
       },
