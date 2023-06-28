@@ -21,6 +21,7 @@ const schedule = [
       {
         name: 'Shin-Jye Lee',
         description: 'Artificial Intelligence and Smart Healthcare',
+        chair: 'Chair: Prof. Michał Woźniak',
         start: '9:15AM',
         end: '10:00AM',
       },
@@ -53,6 +54,7 @@ const schedule = [
       {
         name: 'Sebastian Basterreich',
         description: 'Optimization of recurrent nets: recent theoretical advances and applications in chaotic systems modeling',
+        chair: 'Chair: Prof. Mariusz Flasiński',
         start: '11:15AM',
         end: '12:00AM',
       },
@@ -201,6 +203,11 @@ function TimeSlots({ day, className }) {
           {timeSlot.description && (
             <p className="mt-1 tracking-tight text-red-900">
               {timeSlot.description}
+            </p>
+          )}
+          {timeSlot.chair && (
+            <p className="mt-1 tracking-tight text-red-800">
+              {timeSlot.chair}
             </p>
           )}
           <p className="mt-1 font-mono text-sm text-slate-500">
